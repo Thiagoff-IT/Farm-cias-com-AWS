@@ -1,8 +1,8 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
-Data: [data de início do projeto=] 08 de abril de 2024. <br>
+Data: 20 de abril de 2024. <br>
 Empresa: Abstergo Pharmaceutical Industries <br>
-Responsável: [nome do responsável pelo projeto=] @venelouis <br>
+Responsável: Thiago dos Santos <br>
 
 ## Introdução
 Este relatório apresenta o processo de implementação de ferramentas na empresa [nome da empresa=] Abstergo Pharmaceutical Industries, realizado por [nome do responsável pelo projeto=] @venelouis. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
